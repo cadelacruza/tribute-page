@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: 'Crete Round', serif;
+}
+
+
+#main{
+  background:#FDB927;
+  color:  #552583;;
+  margin: 20px auto;
+  max-width: 1300px;
+  text-align: center;
+   border-radius: 10px;
+}
+
+
+
+#img-div{
+  max-width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  background: white ;
+  border-radius: 20px;
+}
+
+#img-caption{
+  margin: 10px auto;
+}
+
+#main ul{
+  max-width: 40%;
+  margin: 20px auto;
+  
+}
+
+#main ul li{
+  margin-top: 20px;
+}
+
+#main em{
+  display: block;
+  margin: 10px auto;
+  max-width: 60%;
+}
